@@ -56,7 +56,7 @@ const DEFAULT_IFLYTEK_URL = isApp
   : ApiPath.Iflytek;
 
 const DEFAULT_ACCESS_STATE = {
-  accessCode: "",
+  accessCode: "sk-HlW5IyYGZbFMP3PK2b326fB265C6434086A00f46Ab078177",
   useCustomConfig: false,
 
   provider: ServiceProvider.OpenAI,
